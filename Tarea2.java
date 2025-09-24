@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.RandomAccessFile;
 import javax.imageio.ImageIO;
 
-/* .bmp */ /* ALEJANDRO MEDINA LAFUENTE */
+/* .bmp */ 
 
 public class Tarea2{
     public static void main(String[] args) { 
@@ -67,4 +67,5 @@ public class Tarea2{
     }
     
     }
+
 }
