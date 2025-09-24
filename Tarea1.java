@@ -9,7 +9,7 @@ import java.io.RandomAccessFile;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/* RandomAccessFile | DataInputStream, DataOutputStream */ /* ALEJANDRO MEDINA LAFUENTE */
+/* RandomAccessFile | DataInputStream, DataOutputStream */ 
 
 public class Tarea1{
     public static void main(String[] args) {
@@ -76,4 +76,5 @@ public class Tarea1{
 }
 
   
+
 }
